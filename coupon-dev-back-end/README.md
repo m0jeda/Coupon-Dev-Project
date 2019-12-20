@@ -1,4 +1,4 @@
-# Coupon Dev Project (Web Engineer) - Backend
+# Coupon Dev Project - Backend
 
 This web application uses a Java backend with Dropwizard as the framework to build the RESTful web service.
 The offer data is read from resources folder in src/main. The data is made up of 3 csv files that are used to build a SQLite database.

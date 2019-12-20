@@ -1,4 +1,4 @@
-# Coupon Dev Project (Web Engineer)
+# Coupon Dev Project
 
 The goal of the coupon project was to send offer data from the database to the browser as JSON and then display the offers in the browser as a single page application (SPA).
 

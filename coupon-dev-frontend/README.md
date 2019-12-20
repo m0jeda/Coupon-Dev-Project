@@ -1,4 +1,4 @@
-# Coupon Dev Project (Web Engineer) - Frontend
+# Coupon Dev Project - Frontend
 
 The application has a JavaScript (JS) frontend with the React JS library to build a SPA.
 The redux-saga library is used to make aynchronous calls to the REST API calls and fetch the data. The state of the application is managed using the JS library Redux.
